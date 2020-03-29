@@ -1,3 +1,8 @@
+---
+layout: post
+title: A review for NOMA
+---
+
 # NOMA
 
 分类：power domain NOMA / code domain NOMA
