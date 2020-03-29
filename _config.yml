@@ -14,6 +14,9 @@ avatar: https://raw.githubusercontent.com/Minami-Hamabe/Minami-Hamabe.github.io/
 # Flags below are optional
 #
 
+# to display formulas
+markdown:kramdown
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
