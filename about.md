@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+HF上映又延期了,想在电影院听Aimer的春はゆく.
 
 ### Contact me
 
