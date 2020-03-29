@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /个人状态/
+permalink: /About/
 ---
 
 美波妹妹的小粉丝还在忙里偷闲地磕盐
