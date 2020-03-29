@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome! 
+title: 春はゆく
 ---
 
 その日々は梦のように
 
-春はゆく
+
