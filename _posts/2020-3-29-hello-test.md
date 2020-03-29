@@ -43,6 +43,7 @@ $$
 **例：双用户下行**
 
 ![_config.yml]({{ site.baseurl }}/images/2020-3-29-1.png)
+$$
 R_1={\mathrm{log}}(1+\frac{p_1|h_1|^2}{N_1})\tag{7}\\
 $$
 
