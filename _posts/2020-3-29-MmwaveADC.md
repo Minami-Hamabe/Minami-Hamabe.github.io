@@ -7,7 +7,7 @@ title:  On Low-Resolution ADCs in Practical 5G Millimeter-Wave Massive MIMO Syst
 
 Key challenge : channel estimation, signal detector, channel information feedback, transmit precoding
 
-![1584932455408](C:\Users\lenovo\Desktop\dll\NOMA\1584932455408.png)
+![_config.yml]({{ site.baseurl }}/images/Paper/20Mar/ADC1.png)
 
 Institution: ADC功耗随采样速率先线性增长，随分辨率比特指数增长。
 
@@ -17,7 +17,7 @@ Institution: ADC功耗随采样速率先线性增长，随分辨率比特指数�
 
 采用低分辨率高速ADCs可以有效减少功耗，主要有算法上的挑战。
 
-![1584930909331](C:\Users\lenovo\Desktop\dll\NOMA\1584930909331.png)
+![_config.yml]({{ site.baseurl }}/images/Paper/20Mar/ADC2.png)
 
 
 
@@ -31,7 +31,7 @@ AQNM(Additive quantization noise model) [2,5,6]可描述量化噪声模型。
 
 输入信号是高斯分布时，可以推导出容量的下界限[5]。3bit ADC即可接近理想无穷精度，且性能可随天线数增多而提升。Mixed-ADC也是一种可选结构
 
-![1584932500839](C:\Users\lenovo\Desktop\dll\NOMA\1584932500839.png)
+![_config.yml]({{ site.baseurl }}/images/Paper/20Mar/ADC3.png)
 
 AQNM的缺陷：**高SNR不准确** 。原因：它假设输入和噪声都是高斯的，ADC 的量化选择不是MMSE的。实际中，量化MIMO的信道容量，输入分布，量化门限仍然未知。
 
@@ -59,7 +59,7 @@ AQNM的缺陷：**高SNR不准确** 。原因：它假设输入和噪声都是�
 
 [10] JCD，需要完美CSI，复杂度高
 
-![1584933194858](C:\Users\lenovo\Desktop\dll\NOMA\1584933194858.png)
+![_config.yml]({{ site.baseurl }}/images/Paper/20Mar/ADC4.png)
 
 上述缺陷：未利用毫米波稀疏性，导频过长或者复杂度高
 
@@ -87,7 +87,7 @@ AQNM的缺陷：**高SNR不准确** 。原因：它假设输入和噪声都是�
 
 #### mixed-ADC 
 
-![1584952296786](C:\Users\lenovo\Desktop\dll\NOMA\1584952296786.png)
+![_config.yml]({{ site.baseurl }}/images/Paper/20Mar/ADC5.png)
 
 包括：某特定信噪比下的最优ADC分配问题？在宽带毫米波信道下的问题？
 
