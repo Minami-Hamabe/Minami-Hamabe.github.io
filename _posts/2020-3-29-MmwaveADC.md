@@ -3,6 +3,8 @@ layout: post
 title:  On Low-Resolution ADCs in Practical 5G Millimeter-Wave Massive MIMO Systems
 ---
 
+毫米波+低精度ADC
+
 Key challenge : channel estimation, signal detector, channel information feedback, transmit precoding
 
 ![1584932455408](C:\Users\lenovo\Desktop\dll\NOMA\1584932455408.png)
