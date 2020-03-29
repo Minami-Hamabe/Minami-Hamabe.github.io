@@ -1,4 +1,9 @@
-# On Low-Resolution ADCs in Practical 5G Millimeter-Wave Massive MIMO Systems
+---
+layout: post
+title: A review for NOMA
+---
+
+## On Low-Resolution ADCs in Practical 5G Millimeter-Wave Massive MIMO Systems
 
 Key challenge : channel estimation, signal detector, channel information feedback, transmit precoding
 
