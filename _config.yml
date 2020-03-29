@@ -15,7 +15,7 @@ avatar: https://raw.githubusercontent.com/Minami-Hamabe/Minami-Hamabe.github.io/
 #
 
 # to display formulas
-markdown:kramdown
+# markdown:kramdown
 
 # Includes an icon in the footer for each username you enter
 footer-links:
