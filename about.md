@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+美波妹妹的小粉丝还在忙里偷闲地磕盐
 
-### More Information
+### 最近碎碎念
 
-A place to include any other types of information that you'd like to include about yourself.
+HF上映又延期了,想在电影院听Aimer的春はゆく.
 
-### Contact me
+### 联系方式
 
-[email@domain.com](mailto:email@domain.com)
+欢迎找我唠嗑 [kekezui6@163.com](mailto:kekezui6@163.com)
